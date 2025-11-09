@@ -24,7 +24,7 @@ function App() {
 
   return (
     <div className="flex flex-col items-center  justify-center h-screen w-full">
-      <div className=" border-8  border-[#1B3C53] gap-2 w-[500px] rounded-2xl h-[700px]  flex flex-col items-center justify-start pt-10">
+      <div className=" border-8  border-[#1B3C53]  px-4  gap-2 sm:w-[500px] rounded-2xl h-[700px]  flex flex-col items-center justify-start pt-10">
 
 
         <p className="font-semibold text-2xl text-[#234C6A]">My To List in Zustand</p>
